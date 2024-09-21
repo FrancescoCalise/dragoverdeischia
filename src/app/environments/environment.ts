@@ -4,7 +4,7 @@ export const environment = {
   production: false,
   firebase: {
     apiKey: "AIzaSyBbE840aHYXcQX5dGwoc7iA2NXhc2fcUCs",
-    authDomain: "dragoverde-ischia.firebaseapp.com",
+    authDomain: "dragoverdeischia.firebaseapp.com",
     databaseURL: "https://dragoverde-ischia-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "dragoverde-ischia",
     storageBucket: "dragoverde-ischia.appspot.com",

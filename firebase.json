@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "dragoverdeischia",
+    "public": "public/browser",
     "ignore": [
       "firebase.json",
       "**/.*",

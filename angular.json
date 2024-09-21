@@ -86,10 +86,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "dragoverde-ischia:build:production"
+              "buildTarget": "dragoverdeischia:build:production"
             },
             "development": {
-              "buildTarget": "dragoverde-ischia:build:development"
+              "buildTarget": "dragoverdeischia:build:development"
             }
           },
           "defaultConfiguration": "development"
